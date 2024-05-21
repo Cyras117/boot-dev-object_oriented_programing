@@ -13,9 +13,3 @@ class Employee:
     def get_name(self):
         return f"{self.first_name} {self.last_name}"
     
-
-def main():
-    e = Employee("a","a","a",123,132)
-    print(Employee.total_employees)
-
-main()

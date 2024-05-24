@@ -1,2 +1,2 @@
-# boot-dev-object_oriented_programing
-* Lessions from bootdev oop lessions
+# boot-dev Object Oriented Programing(OOP)
+* Lessions and challenges from bootdev oop course.
